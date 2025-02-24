@@ -1,14 +1,14 @@
 {
-    "module": "{@name}",
-    "name": "{@nameLabel}",
-    "description": "{@description}",
-    "author": "{@author}",
-    "bundled": {@bundled},
+    "module": "BackupMode",
+    "name": "Backup Mode",
+    "description": "Console commands to swith backup mode.",
+    "author": "Anton Slyzhko",
+    "bundled": false,
     "acceptableVersions": [
-        ">=7.3.0"
+        ">=9.0.0"
     ],
     "php": [
-        ">=7.2"
+        ">=8.2"
     ],
     "scripts": []
 }

@@ -1,0 +1,12 @@
+{
+    "enableBackupMode": {
+        "className": "Espo\\Modules\\BackupMode\\Classes\\ConsoleCommands\\EnableBackMode",
+        "listed": true,
+        "noSystemUser": true
+    },
+    "disableBackupMode": {
+        "className": "Espo\\Modules\\BackupMode\\Classes\\ConsoleCommands\\DisableBackMode",
+        "listed": true,
+        "noSystemUser": true
+    }
+}
